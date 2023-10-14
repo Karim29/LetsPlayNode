@@ -1,0 +1,15 @@
+{
+  "name": "letsplaynnode",
+  "version": "1.0.0",
+  "description": "le projet lets play cote serveur",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karim bichri, yassine laamach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
